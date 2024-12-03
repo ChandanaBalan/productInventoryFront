@@ -1,0 +1,1 @@
+export const serverurl = 'https://productinventory-o84u.onrender.com'
